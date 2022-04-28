@@ -4,3 +4,4 @@ Csapatmunka :))
 # György Gergő
 # GútiBálint
 # kraljevicdarjan
+# web html váz elkezdődött
