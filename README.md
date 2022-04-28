@@ -5,3 +5,6 @@ Csapatmunka :))
 # GútiBálint
 # kraljevicdarjan
 # web html váz elkezdődött
+
+golyók szerkeztése
+
