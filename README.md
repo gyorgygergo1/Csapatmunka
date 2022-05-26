@@ -6,4 +6,4 @@ Csapatmunka :))
 # kraljevicdarjan
 # web html váz elkezdődött
 golyók szerkeztése
-
+# élet átgondolás, html css formázása
